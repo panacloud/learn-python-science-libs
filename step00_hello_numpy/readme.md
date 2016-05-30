@@ -13,7 +13,6 @@ https://www.youtube.com/watch?v=9kPe8zWefoI
 
 http://gowrishankarnath.com/installing-anaconda-python-distribution-and-pycharm-ide-to-setup-a-python-development-environment/
 
+Read Chapter 3 of Learning Pandas
 
-Read: chapter 2 page 28 of Numpy Beginner's Guide - Third Edition
-
-http://www.amazon.com/Numpy-Beginners-Guide-Ivan-Idris/dp/1785281968/
+http://www.amazon.com/Learning-Pandas-Python-Discovery-Analysis/dp/1783985127/
