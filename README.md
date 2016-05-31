@@ -28,11 +28,6 @@ http://gowrishankarnath.com/installing-anaconda-python-distribution-and-pycharm-
 We will use the following book to learn:
 
 
-Numpy Beginner's Guide - Third Edition
-
-http://www.amazon.com/Numpy-Beginners-Guide-Ivan-Idris/dp/1785281968/
-
-
 Learning pandas - Python Data Discovery and Analysis Made Easy 
 
 https://www.amazon.com/Learning-pandas-Python-Discovery-Analysis-ebook/dp/B00W9Q7VPA
