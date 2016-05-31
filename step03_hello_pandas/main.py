@@ -45,3 +45,12 @@ print(a8.count())
 a9 = a8.unique()
 print(a9.size)
 print(a8.value_counts())
+
+''' A fundamental difference between a NumPy ndarray and a pandas Series is the
+ability of a Series to automatically align data from another Series based on label
+values before performing an operation. '''
+s1 = pd.Series([1, 2, 3, 4], index=['a', 'b', 'c', 'd'])
+s2 = pd.Series([2, 1, 3, 4], index=['b', 'a', 'c', 'd'])
+print(s1 + s2)
+
+print(s1 * 3)
